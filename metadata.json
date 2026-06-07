@@ -1,0 +1,6 @@
+{
+  "name": "Tata Motors Passenger Showroom",
+  "description": "An immersive, minimalistic digital showroom for modern Tata passenger and electric vehicles featuring 5-star safety specs, AI selector companion, and dealer ledger syncer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
